@@ -25,6 +25,7 @@ plt.plot(x_plot, y_plot)
 plt.xlabel("Height")
 plt.ylabel("Weight")
 plt.grid()
+plt.title("Distribution of Data")
 
 
 # In[59]:

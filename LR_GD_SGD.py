@@ -24,6 +24,7 @@ plt.plot(x, y, 'o')
 plt.plot(x_plot, y_plot)
 plt.xlabel("Height")
 plt.ylabel("Weight")
+plt.grid()
 
 
 # In[59]:
